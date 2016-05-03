@@ -1,0 +1,22 @@
+Bill of Material for 
+On 2016. 04. 29. at 23:53:47
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 10uF                CAP_1206         4    C6, C7, C8, C9               10uF 5% Capacitor    
+ 3k3                 RES_1206         1    R7                           1206  3k3 5% Resistor 
+ 8MHz 30ppm          HC49             1    X1                           8.000MHz QUARZ HC49 30ppm 20pF LOW PROFILE 
+ BC817               SOT23-3          1    T1                           BC817 NPN-UNI 45V 0.5A 0.25W 200MHz SOT-23 
+ BZX84C3V3LT1G       SOT23-3          1    D2                           3V3 ZENER DIODE 225 mW SOT-23 
+ Capacitor           CAP_1206        11    C1, C2, C3, C4, C5, C10, C11 1206  100n 50V Capacitor 
+                                           C12, C13, C14, C15
+ HD44780             SOCKET_HEADER_16P    1    U2                           16x2 CHARACTER DISPLAY 
+ LD1117-3V3          SOT223-3         1    U3                           3.3V low drop positive voltage regulator 
+ RELAY 10A 230VAC    Relay_10A        1    M1                           MECH 5V 1xMORSE 10A/250AC S7001E5W 5DC 
+ Resistor            RES_1206         7    R1, R2, R3, R4, R5, R6, R8   1206 10k 5% Resistor 
+ Resistor            SMD_TRIM_POT     2    P1, P2                       Trimmer Pot 1k       
+ SS16                DO-214AC         1    D1                           RECTIFIER 1A 60V     
+ STM32F030K6T6       LQFP32           1    U1                           Value-line ARM 32bit MCU with 32k Flash 
+ SWD                 PIN_HEADER_6P    1    J1                           STM32 SWD CONNECTOR  
+ Terminal Block      TERMINAL_BLOCK_2P    1    J2                           5.08mm Terminal Blocks 2P 
+ Terminal Block      TERMINAL_BLOCK_3P    3    J3, J4, J5                   5.08mm Terminal Blocks 3P 
